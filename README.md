@@ -65,7 +65,7 @@ npm run start-dev
 
 ---
 
-## 5. 🧪 Pengujian API dengan Postman
+## 🧪 Pengujian API dengan Postman
 
 Proyek ini sudah menyertakan file Postman Collection dan Environment di dalam folder testing/, sehingga tidak perlu mengunduh dan mengekstrak file tambahan.
 
@@ -75,7 +75,7 @@ BookshelfAPITest/
 └── Bookshelf API.postman_environment.json
 ```
 
-##📥 Cara Import ke Postman
+### 📥 Cara Import ke Postman
 
 1. Buka aplikasi Postman.
 2. Klik tombol Import di bagian kiri atas.
@@ -84,7 +84,7 @@ BookshelfAPITest/
    📁 Bookshelf API Test Collection
    🌐 Bookshelf API Environment
 
-##▶️ Jalankan Pengujian
+### ▶️ Jalankan Pengujian
 
 1. Jalankan server:
 ```bash
